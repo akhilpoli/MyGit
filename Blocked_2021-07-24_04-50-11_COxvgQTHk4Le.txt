@@ -1,6 +1,0 @@
-The file was blocked since it contained data that is not allowed to be downloaded.
-----------------------------------------------------------------------------------
-Original file name: *~hmac=b8eaafa36ad1c45968d1a7c011517aa6049e065998a85d9be4f278ba851581b8.pdf
-Original file size in bytes: 1347628
-----------------------------------------------------------------------------------
-Blocked by Microsoft Cloud App Security policy
